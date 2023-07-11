@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\Csharp2\Homework2csharp\bin\Debug\net6.0\Homework2csharp.exe
+C:\Users\Administrator\Desktop\Csharp2\Homework2csharp\bin\Debug\net6.0\Homework2csharp.deps.json
+C:\Users\Administrator\Desktop\Csharp2\Homework2csharp\bin\Debug\net6.0\Homework2csharp.runtimeconfig.json
+C:\Users\Administrator\Desktop\Csharp2\Homework2csharp\bin\Debug\net6.0\Homework2csharp.dll
+C:\Users\Administrator\Desktop\Csharp2\Homework2csharp\bin\Debug\net6.0\Homework2csharp.pdb
+C:\Users\Administrator\Desktop\Csharp2\Homework2csharp\obj\Debug\net6.0\Homework2csharp.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Csharp2\Homework2csharp\obj\Debug\net6.0\Homework2csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Csharp2\Homework2csharp\obj\Debug\net6.0\Homework2csharp.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Csharp2\Homework2csharp\obj\Debug\net6.0\Homework2csharp.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Csharp2\Homework2csharp\obj\Debug\net6.0\Homework2csharp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Csharp2\Homework2csharp\obj\Debug\net6.0\Homework2csharp.dll
+C:\Users\Administrator\Desktop\Csharp2\Homework2csharp\obj\Debug\net6.0\refint\Homework2csharp.dll
+C:\Users\Administrator\Desktop\Csharp2\Homework2csharp\obj\Debug\net6.0\Homework2csharp.pdb
+C:\Users\Administrator\Desktop\Csharp2\Homework2csharp\obj\Debug\net6.0\Homework2csharp.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Csharp2\Homework2csharp\obj\Debug\net6.0\ref\Homework2csharp.dll
